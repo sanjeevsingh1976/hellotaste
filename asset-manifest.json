@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hellotaste/static/css/main.bf1c199d.css",
+    "main.js": "/hellotaste/static/js/main.da493e46.js",
+    "index.html": "/hellotaste/index.html",
+    "main.bf1c199d.css.map": "/hellotaste/static/css/main.bf1c199d.css.map",
+    "main.da493e46.js.map": "/hellotaste/static/js/main.da493e46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf1c199d.css",
+    "static/js/main.da493e46.js"
+  ]
+}
